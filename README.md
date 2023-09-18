@@ -26,6 +26,9 @@ Feel free to navigate through the projects and delve into their details. Your fe
 - **Description:** Addressed the challenge of predicting products at risk of going on back order. Employed data analysis to anticipate potential stock shortages, enhancing efficiency and customer satisfaction by avoiding delays in high-demand products.
 - [GitHub Link](https://github.com/Samargithubb/Back-Order-Prediction-Project)
 
+### Text_Extraction_and_Analysis
+- **Description:** Extracted textual data from articles provided in the "input.xlsx" file. Ensured that only the article title and text were extracted, excluding any irrelevant content like website headers and footers. Utilized Python programming, specifically leveraging libraries such as BeautifulSoup, Requests, TextBlob, nltk or pandas for efficient data extraction. Conducted text analysis to extract actionable information from textual data, facilitating better decision-making, content optimization, and improved understanding of the content's characteristics.
+- [GitHub Link](https://github.com/Samargithubb/Text_Extraction_and_Analysis)
 
 ## Connect with Me
 Let's connect and collaborate! Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/samar-singh-119855206) and check out more of my projects.
